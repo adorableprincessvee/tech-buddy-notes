@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div className='bg-pink-700 rounded p-7 jus'>you</div>
+      <alert/>
     </>
   )
 }
