@@ -4,7 +4,6 @@ export default function Header() {
   return (
     <header className="w-full border-b bg-white">
       <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
-        {/* Logo / Title */}
         <h1 className="text-xl font-bold text-gray-800">
           Tech Buddy Notes
         </h1>
